@@ -1,5 +1,5 @@
 {
-  "name": "dummy-server",
+  "name": "dummy-serverr",
   "version": "1.0.0",
   "description": "Simple Express server to proxy OpenAI requests",
   "main": "server.js",
